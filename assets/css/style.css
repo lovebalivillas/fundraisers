@@ -680,7 +680,7 @@ section {
 }
 
 .about .image2 {
-  background: url("../img/fund/Screen\ Shot\ 2023-10-11\ at\ 22.04.10.png") center center no-repeat;
+  background: url("../img/fund/fund-2.mp4") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
@@ -740,7 +740,7 @@ section {
 }
 
 .about .image3 {
-  background: url("../img/fund/Screen\ Shot\ 2023-10-11\ at\ 22.05.23.png") center center no-repeat;
+  background: url("../img/fund/fund.mp4") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
